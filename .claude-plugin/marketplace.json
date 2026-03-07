@@ -1,0 +1,20 @@
+{
+  "name": "claudit",
+  "owner": {
+    "name": "put-it-online"
+  },
+  "metadata": {
+    "description": "Clauditor plugin marketplace"
+  },
+  "plugins": [
+    {
+      "name": "clauditor",
+      "source": "./",
+      "description": "Master your Claude Code setup with config auditing, automated learning capture, and deep concept knowledge",
+      "version": "1.0.0",
+      "author": {
+        "name": "put-it-online"
+      }
+    }
+  ]
+}

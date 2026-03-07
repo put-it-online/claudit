@@ -1,0 +1,11 @@
+{
+  "name": "clauditor",
+  "description": "Master your Claude Code setup with config auditing, automated learning capture, and deep concept knowledge",
+  "version": "1.0.0",
+  "author": {
+    "name": "put-it-online"
+  },
+  "repository": "https://github.com/put-it-online/claudit",
+  "license": "MIT",
+  "keywords": ["config-audit", "self-improvement", "claude-concepts", "learning", "configuration"]
+}
