@@ -1,4 +1,7 @@
-Audit and optimize the Claude Code configuration for this project.
+---
+description: "Audit and optimize the Claude Code configuration for this project."
+disable-model-invocation: true
+---
 
 Delegate this task to @config-auditor. It has the `claude-concept-expert` skill loaded for in-depth knowledge of Claude concepts.
 
